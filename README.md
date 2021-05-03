@@ -41,7 +41,7 @@ DOES NOT include Anti-cheat bypass (maybe will add in later update)
 
 WARNING: Do not rapid fire, your game will crash with this enabled, use at your own risk!
 
-Read this if you dont know what to do
+# Read this if you dont know what to do
 
 
 Step one, setup a visual studios project.
@@ -72,7 +72,7 @@ Step four, find offsets.
 4.)
 -Start cheat engine and start finding your offsets! (I'm not going to go into detail about finding specific offsets becuase that is a little out of the scope of this readme).
 
-WARNING: As ive just learn't, some features work better than others. 
+# Credits
 
 Built By Vpk: 
 2015Name#9918
