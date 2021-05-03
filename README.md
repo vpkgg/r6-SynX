@@ -41,7 +41,38 @@ DOES NOT include Anti-cheat bypass (maybe will add in later update)
 
 WARNING: Do not rapid fire, your game will crash with this enabled, use at your own risk!
 
-WARNING: As ive just learn't, some features work better than others. Please
+Read this if you dont know what to do
+
+
+Step one, setup a visual studios project.
+-If you dont already know how to do this then I suggest you just stop, go read up on visual studios and get comfortable using it.
+
+
+Step two, finding a RPM/WPM method.
+-This project is only the external part of the cheat. The offsets for the cheats are outdated, meaning that you cannot just ctrl+c and ctrl+v and expect it to work. At the very least you are going to need a way to RPM (read process memory) and WPM (write process memory). If you dont know what that means I suggest you read about it here, here or here.
+
+
+Step three, finishing the functions in MemoryFunctons.h
+-Complete the function body for all of the functions inside of MemoryFunction.h
+
+
+Step four, find offsets.
+*1.)
+-Download hamachi or any other P2P vpn software. Download here, setup an account/network, have a friend connect.
+
+
+2.)
+-Open the game. Create a local match, and have your freind connect (make sure hes on your hamachi network). I suggest you edit the rounds to be as long as possible and the drone faze the fastest (save you some time)
+
+
+3.)
+-Disable battleye (open task manager -> find battleye services -> disable)
+
+
+4.)
+-Start cheat engine and start finding your offsets! (I'm not going to go into detail about finding specific offsets becuase that is a little out of the scope of this readme).
+
+WARNING: As ive just learn't, some features work better than others. 
 
 Built By Vpk: 
 2015Name#9918
