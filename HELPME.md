@@ -1,6 +1,6 @@
-# r6-SynX
+r6-SynX
 
-Rainbow Six siege external cheats by Vpk.
+# Rainbow Six siege external cheats by Vpk.
 
 ![](https://cdn.discordapp.com/attachments/384383644145287169/609949847038197773/unknown.png)
 
