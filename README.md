@@ -3,6 +3,8 @@
 Rainbow Six siege external cheats by Vpk.
 DOES NOT include Anti-cheat bypass (maybe will add in later update)
 
+-   Use for offsets: https://github.com/vpkgg/R6-offsets
+
 ![](https://cdn.discordapp.com/attachments/384383644145287169/609949847038197773/unknown.png)
 
 # Cheat list
