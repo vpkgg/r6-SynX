@@ -1,5 +1,7 @@
 # r6-SynX
 
+Announcement, Discord Banned my account, thats why i have been replying on discord nor on here, i will get a new one soon plus update soon
+
 Rainbow Six siege external cheats by Vpk.
 DOES NOT include Anti-cheat bypass (maybe will add in later update)
 
