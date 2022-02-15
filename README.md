@@ -79,12 +79,10 @@ Step four, find offsets.
 # Credits
 
 Built By Vpk: 
-2015Name#9918
-2015Name#9918
-2015Name#9918
+Discord Soon
 
 
 Github Profile: https://github.com/vpkgg
 
 
-P.s I will be updating all files soon
+Just Got Into My Github Update Soon
