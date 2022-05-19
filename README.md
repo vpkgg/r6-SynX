@@ -1,11 +1,15 @@
 # r6-SynX
 
+# Announcement
+This is a legacy code, only use this for educational reasons. please use the new:
+https://github.com/vpkgg/R6-FreeFall
+
 Announcement, Discord Banned my account, thats why i have been replying on discord nor on here, i will get a new one soon plus update soon
 
 Rainbow Six siege external cheats by Vpk.
 DOES NOT include Anti-cheat bypass (maybe will add in later update)
 
--   Use for offsets: https://github.com/vpkgg/R6-offsets
+-   Use for offsets: Coming SOON
 
 ![](https://cdn.discordapp.com/attachments/384383644145287169/609949847038197773/unknown.png)
 
@@ -79,7 +83,7 @@ Step four, find offsets.
 # Credits
 
 Built By Vpk: 
-Discord Soon
+VpkToo#0777
 
 
 Github Profile: https://github.com/vpkgg
